@@ -1,4 +1,4 @@
-Console.WriteLine("Enter your lucky numbers");
+Console.WriteLine("Enter your four (4) lucky numbers");
 int n = int.Parse(Console.ReadLine());
             for (int a = 1; a <= n; a++)
             {
